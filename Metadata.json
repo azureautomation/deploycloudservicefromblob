@@ -1,0 +1,20 @@
+{
+    "Author": "jlaari",
+    "ContentSize": 7568,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploycloudservicefromblob/master/Deploy-CloudServiceFromBlob.ps1",
+    "DownloadCount": 576,
+    "Id": "Deploy-CloudServiceFromBlob-e68838cd",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 539,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-3-21T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Azure Automation Runbook does Cloud Service (Web & Worker role) deployment from the files found from Storage Account. User must upload Azure cloud package & cloud configuration file to given container before running the script.",
+    "Title": "Deploy-CloudServiceFromBlob",
+    "UpdatedDate": "2017-3-21T00:00:00",
+    "Url": "https://github.com/azureautomation/deploycloudservicefromblob",
+    "UserTags": "Runbook, Azure Automation, Azure Cloud Service"
+}
